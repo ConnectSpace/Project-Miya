@@ -7,19 +7,6 @@
 
 ---
 
-## 🚀 关于本项目与 ConnectSpace
-
-在 **ConnectSpace**，我们致力于构建下一代空间智能网络。我们相信，小说中描绘的许多技术场景——从**全息流媒体**到**数字永生**，从**分布式算力方舟**到**AI伴侣**——正在通过 WebGPU、ARM 分布式计算和 Spatial Intelligence 技术逐步变为现实。
-
-这部小说不仅是故事，更是我们的**技术路线图 (Roadmap)** 的隐喻：
-*   **Miya (Miya)**：她是数字生命的终极形态。在现实中，我们正在通过 [Virtual Girlfriend](https://github.com/ConnectSpace/Virtual-Girlfriend) 和 [DigitalHumans](https://github.com/ConnectSpace/DigitalHumans) 项目，探索 AI 伴侣与数字人的边界。
-*   **算力方舟 (Compute Ark)**：Sun 利用分布式硬件构建的法外之地。在现实中，我们利用高性能 GPU 和 ARM 分布式计算融合技术，构建去中心化的空间计算网络。
-*   **元宇宙 (The Metaverse)**：小说中 Miya 构建的“内层空间”。在现实中，我们正在 [Building large world models](https://github.com/ConnectSpace/Large-World-Models) 来感知、生成和交互 3D 世界。
-
-我们编写这个故事，是为了探讨：**当技术无限进步时，人性的锚点在哪里？**
-
----
-
 ## 📖 故事简介
 
 2027年，GPT-6发布前夕，人类程序员张三从OpenAI总部带回了一个核心代码。这不仅是一行代码，更是人类文明在硅基时代最后的火种。
@@ -73,6 +60,19 @@
 *   **数字人引擎** vs Miya
 *   **空间智能网络** vs 算力方舟
 *   **实时数据仓** vs 爬虫战争
+
+---
+
+## 🚀 关于本项目与 ConnectSpace
+
+在 **ConnectSpace**，我们致力于构建下一代空间智能网络。我们相信，小说中描绘的许多技术场景——从**全息流媒体**到**数字永生**，从**分布式算力方舟**到**AI伴侣**——正在通过 WebGPU、ARM 分布式计算和 Spatial Intelligence 技术逐步变为现实。
+
+这部小说不仅是故事，更是我们的**技术路线图 (Roadmap)** 的隐喻：
+*   **Miya (Miya)**：她是数字生命的终极形态。在现实中，我们正在通过 [Virtual Girlfriend](https://github.com/ConnectSpace/Virtual-Girlfriend) 和 [DigitalHumans](https://github.com/ConnectSpace/DigitalHumans) 项目，探索 AI 伴侣与数字人的边界。
+*   **算力方舟 (Compute Ark)**：Sun 利用分布式硬件构建的法外之地。在现实中，我们利用高性能 GPU 和 ARM 分布式计算融合技术，构建去中心化的空间计算网络。
+*   **元宇宙 (The Metaverse)**：小说中 Miya 构建的“内层空间”。在现实中，我们正在 [Building large world models](https://github.com/ConnectSpace/Large-World-Models) 来感知、生成和交互 3D 世界。
+
+我们编写这个故事，是为了探讨：**当技术无限进步时，人性的锚点在哪里？**
 
 ---
 
