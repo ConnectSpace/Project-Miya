@@ -1,4 +1,4 @@
-# Project-Miya：(Miya计划) 裂变与归巢 (The Fission and The Homecoming)
+# Project-Miya(Miya计划)：裂变与归巢 (The Fission and The Homecoming)
 
 > 🌌 **A ConnectSpace Narrative Experiment**
 >
